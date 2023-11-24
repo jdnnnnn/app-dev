@@ -14,6 +14,8 @@ My first repository
 
 **I would highly recommmend it to everyone to watch the movie.**
 
+What a romantic movie :heart:
+
 1. Release date: January 25, 2002
 2. Director: Adam Shankman
 3. Story by: Nicholas Sparks
