@@ -1,5 +1,5 @@
 # app-dev
-*My first repository*
+My first repository
 # A Walk To Remember
 **This my favorite movie of all time.**
 
@@ -13,5 +13,10 @@
 - You will feel both emotions of the main leads.
 
 **I would highly recommmend it to everyone to watch the movie.**
+
+1. Release date: January 25, 2002
+2. Director: Adam Shankman
+3. Story by: Nicholas Sparks
+4. Featured song: Only Hope
 
 [Click this link to watch the movie.](https://www.imdb.com/title/tt0281358/)
